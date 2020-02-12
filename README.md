@@ -14,6 +14,19 @@
 - This is solving based on increasing sub problem
 - Write iterative code
 # Optimal Substructure property
-
+# Problems
+https://leetcode.com/problems/climbing-stairs/
+https://leetcode.com/problems/subsets/
+https://leetcode.com/problems/subsets-ii/
+https://leetcode.com/problems/edit-distance/
+https://leetcode.com/problems/knight-dialer/
+https://leetcode.com/problems/house-robber/
+https://leetcode.com/problems/house-robber-ii/
+https://leetcode.com/problems/house-robber-iii/
+https://leetcode.com/problems/partition-equal-subset-sum/
+https://leetcode.com/problems/word-break/
+https://leetcode.com/problems/word-break-ii/
+https://leetcode.com/problems/coin-change/
+https://leetcode.com/problems/coin-change-2/
 
 
