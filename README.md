@@ -15,6 +15,7 @@
 - Write iterative code
 # Optimal Substructure property
 # Problems
+https://leetcode.com/problems/fibonacci-number/
 https://leetcode.com/problems/climbing-stairs/
 https://leetcode.com/problems/subsets/
 https://leetcode.com/problems/subsets-ii/
@@ -28,5 +29,15 @@ https://leetcode.com/problems/word-break/
 https://leetcode.com/problems/word-break-ii/
 https://leetcode.com/problems/coin-change/
 https://leetcode.com/problems/coin-change-2/
+
+# Matrix related problems
+https://leetcode.com/problems/maximal-square/
+https://leetcode.com/problems/maximal-rectangle/
+https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+
+
+# String related problems
+https://leetcode.com/problems/wildcard-matching/
 
 
