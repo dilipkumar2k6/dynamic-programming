@@ -180,15 +180,16 @@ https://www.spoj.com/problems/PR003004/
 - - - - -
 ```
 - Define dp
-dp(N, tight): sum of sum of all digits of N digits  number <=R
-dp(N,1):  0*c(0) + dp(N-1, 0) 
+![](assets/digit-dp-sum-of-sum-of-digits.png)
+    - dp(N, tight): sum of sum of all digits of N digits  number <=R
+    - dp(N,1):  0*c(0) + dp(N-1, 0) 
         + 1*c(1) + dp(N-1, 0)
         + 2*c(2) + dp(N-1, 0)
         + 3*c(3) + dp(N-1, 0)
         .....................
         + (ub-1)*c(ub-1) + dp(N-1, 0)
         + ub*c(ub) + dp(N-1, 1)
-        
+    - c(x) is total numbers can be formed by placing x on nth position
 
 # Problmes
 https://leetcode.com/problems/numbers-with-repeated-digits/
