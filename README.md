@@ -87,6 +87,50 @@ https://leetcode.com/problems/non-overlapping-intervals/
 # Binary Search or DP
 https://leetcode.com/problems/split-array-largest-sum/
 
+# jump Game
+https://leetcode.com/problems/jump-game/
+https://leetcode.com/problems/jump-game-ii/
+https://leetcode.com/problems/jump-game-iii/
+https://leetcode.com/problems/jump-game-iv/
+https://leetcode.com/problems/jump-game-v/
+https://leetcode.com/problems/jump-game-vi/
+
+# Cherry pick
+https://leetcode.com/problems/cherry-pickup
+https://leetcode.com/problems/cherry-pickup-ii
+
+# Burst baloons
+https://leetcode.com/problems/burst-balloons/
+
+# Pizza
+https://leetcode.com/problems/pizza-with-3n-slices/
+
+# Games
+https://leetcode.com/problems/minimum-cost-to-merge-stones/
+
+https://leetcode.com/problems/super-egg-drop/
+# String compression
+https://leetcode.com/problems/string-compression/
+
+https://leetcode.com/problems/string-compression-ii/
+
+
+# Digit DP
+https://leetcode.com/problems/count-of-range-sum/
+
+https://leetcode.com/problems/count-numbers-with-unique-digits/
+
+https://leetcode.com/problems/numbers-with-repeated-digits/
+
+# Bitmasking DP
+https://leetcode.com/problems/most-profit-assigning-work/
+
+https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
+
+https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+
+https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+
 
 
 
