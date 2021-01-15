@@ -3,6 +3,9 @@ https://www.youtube.com/watch?v=heUFId6Qd1A
 
 https://www.youtube.com/watch?v=2yAEj-0A8bk
 
+
+https://www.youtube.com/watch?v=sCwokuCoQB8
+
 # Summary
 - Another type of DP
 # Count of integers
@@ -192,5 +195,14 @@ https://www.spoj.com/problems/PR003004/
     - c(x) is total numbers can be formed by placing x on nth position
 
 # Problmes
+
+https://www.spoj.com/problems/CPCRC1C/
+
+https://www.spoj.com/problems/GONE/
+
+https://www.spoj.com/problems/RAONE/
+
+https://www.spoj.com/problems/LUCIFER/
+
 https://leetcode.com/problems/numbers-with-repeated-digits/
 
