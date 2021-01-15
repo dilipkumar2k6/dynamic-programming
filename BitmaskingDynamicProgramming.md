@@ -1,6 +1,8 @@
 # Reference
 https://www.youtube.com/watch?v=6sEFap7hIl4&list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g
 
+https://www.youtube.com/watch?v=QukpHtZMAtM&list=RDCMUCJZF4VOyV9zfm2SH_QdeOWw&index=2
+
 # Summary
 - Set of integers S = {1, 2, 3, ....., N}
 - Let's say, you have many subsets of `S`
@@ -83,6 +85,7 @@ https://www.codechef.com/problems/TSHIRTS
     - dp(i, mask) = dp(i+1, mask) + sum( dp(j+1, mask-jth bit) ) with valid j
 
 # Travelling salesman problem
+https://www.youtube.com/watch?v=QukpHtZMAtM&list=RDCMUCJZF4VOyV9zfm2SH_QdeOWw&index=2
 ## Summary
 - Given a list of cities and the distance between each pair of cities
 - What is the shortest possible route that visits each city only once and returns to the origin city

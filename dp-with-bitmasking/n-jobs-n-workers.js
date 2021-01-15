@@ -1,5 +1,6 @@
 /**
  * https://www.youtube.com/watch?v=685x-rzOIlY
+ * https://docs.google.com/document/d/1zuw8hBXHsiTYTH8u986fQhn8TWfpOk9BQBIRH3lo_W8/edit
 Problem Statement
 
 Let there be N workers and N jobs. Any worker can be assigned to perform any job, incurring some cost that may vary depending on the work-job assignment. It is required to perform all jobs by assigning exactly one worker to each job and exactly one job to each agent in such a way that the total cost of the assignment is minimized.
@@ -58,6 +59,7 @@ const recursion = (cost, mask, i, dp) => {
             cost[i][j] + recursion(cost, mask ^(1 << j), i + 1, dp)
         )
     }
+    dp[i][mask] = ans; 
     return ans;
 }
 const test = () => {

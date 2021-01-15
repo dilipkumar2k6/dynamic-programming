@@ -1,3 +1,4 @@
+// https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/000000000043b0c6#problem
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
 
@@ -72,7 +73,8 @@ const main = () => {
         const dp2 = new Array(L.length+1).fill(0)
                     .map(a => new Array(2).fill(0)
                     .map(b => new Array(2).fill(0)
-                    .map(c => new Array(2).fill(-1))));                       
+                    .map(c => new Array(2).fill(-1))));   
+
         const ans = recursion(r, r.length, 0, 1, 1, dp1) - recursion(l, l.length, 0, 1, 1, dp2);
         console.log(`Case #${i}: ${ans}`);
         i++;

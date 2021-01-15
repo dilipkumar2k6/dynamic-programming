@@ -1,11 +1,7 @@
 # Reference
-https://www.youtube.com/watch?v=7FmL-WpTTJ4
-
-https://www.youtube.com/watch?v=685x-rzOIlY
-
-https://www.youtube.com/watch?v=d7kvyp6dfz8
-
 https://www.youtube.com/watch?v=heUFId6Qd1A
+
+https://www.youtube.com/watch?v=2yAEj-0A8bk
 
 # Summary
 - Another type of DP
@@ -18,7 +14,7 @@ https://www.youtube.com/watch?v=heUFId6Qd1A
 - s(r) = count of numbers from 0 to r which obey f(x)
 - s(l-1) = count of numbers from 0 to l-1 which obey f(x)
 - Soln of problem 2 become s(r) - s(l-1)
-## Sample Problem 
+# Sample Problem 
 - Find the count of numbers between L and R which have a sum of digits = `x`
 - `f(i)`: sum of digits of number `i` is `x`
 ## Brute force
@@ -100,7 +96,7 @@ const check = (i, x) => {
 Following is code in DP
 ```
 const recursion = (num, n, x, tight, dp) => {
-    // base case 1: if x is 0
+    // base case 1: if x is < 0
     if(x < 0) {
         return 0;
     }
@@ -114,10 +110,10 @@ const recursion = (num, n, x, tight, dp) => {
     if(dp[num][n][tight] !== -1) {
         return dp[num][n][tight];
     }
-    let upper = tight ? num[num.length - n] - '0': 9;
+    const ub = tight ? (num[num.length - n].charCodeAt(0) - '0'.charCodeAt(0)): 9;
     let ans = 0;
-    for (let dig = 0; dig <= upper; dig++) {
-        ans += recursion(num, n - 1, x - dig, tight, dp)
+    for (let dig = 0; dig <= ub; dig++) {
+        ans += recursion(num, n - 1, x - dig, tight & (dig == ub), dp)
     }
     dp[num][n][tight] = ans;
     return ans;
@@ -161,7 +157,7 @@ https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/00000
     - I.e. need to consider if put leading `0`
 - DP definition
     ```
-    dp(N, even, leading, tight)
+    dp(N, even, leading, tight): Number of boaring number from 0 to N 
     ```
 - Filliing
     ```
@@ -171,9 +167,10 @@ https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff49/00000
 - Code
     Refer digit-dynamic-programming/boarding-numbers.js
 # Digit Sum
+https://www.youtube.com/watch?v=H6OCV7qcZoQ&t=1413s
 https://www.spoj.com/problems/PR003004/
 - For a pair of integers L and R
-- he digit sum of the interval [L,R] is defined as 
+- The digit sum of the interval [L,R] is defined as 
 - the sum of all digits occurring in all numbers between (and including) a and b. 
 - For example, the digit sum of [28, 31] can be calculated as:
     - 2+8  +  2+9  +  3+0  +  3+1 = 28
