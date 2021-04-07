@@ -43,6 +43,8 @@ https://leetcode.com/problems/coin-change/
 
 https://leetcode.com/problems/coin-change-2/
 
+https://leetcode.com/problems/bomb-enemy/
+
 # Matrix related problems
 https://leetcode.com/problems/maximal-square/
 
@@ -114,6 +116,10 @@ https://leetcode.com/problems/string-compression/
 
 https://leetcode.com/problems/string-compression-ii/
 
+# DFS
+https://leetcode.com/problems/optimal-account-balancing/
+
+https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/
 
 # Digit DP
 https://leetcode.com/problems/count-of-range-sum/
@@ -121,6 +127,8 @@ https://leetcode.com/problems/count-of-range-sum/
 https://leetcode.com/problems/count-numbers-with-unique-digits/
 
 https://leetcode.com/problems/numbers-with-repeated-digits/
+
+https://leetcode.com/problems/rotated-digits/
 
 # Bitmasking DP
 https://leetcode.com/problems/most-profit-assigning-work/
@@ -131,6 +139,7 @@ https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 
 https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 
-
+# Number system
+https://leetcode.com/problems/create-maximum-number/
 
 
