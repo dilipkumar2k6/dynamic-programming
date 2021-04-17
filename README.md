@@ -45,6 +45,8 @@ https://leetcode.com/problems/coin-change-2/
 
 https://leetcode.com/problems/bomb-enemy/
 
+https://leetcode.com/problems/filling-bookcase-shelves/
+
 # Matrix related problems
 https://leetcode.com/problems/maximal-square/
 
