@@ -204,5 +204,21 @@ https://www.spoj.com/problems/RAONE/
 
 https://www.spoj.com/problems/LUCIFER/
 
+https://leetcode.com/problems/number-of-digit-one/
+
+
+https://leetcode.com/problems/count-numbers-with-unique-digits/
+
+# Others
+
+https://leetcode.com/problems/rotated-digits/
+
+https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
+
+https://leetcode.com/problems/find-all-good-strings/
+
 https://leetcode.com/problems/numbers-with-repeated-digits/
+
+
+https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 
