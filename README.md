@@ -99,6 +99,8 @@ https://leetcode.com/problems/jump-game-iv/
 https://leetcode.com/problems/jump-game-v/
 https://leetcode.com/problems/jump-game-vi/
 
+https://leetcode.com/problems/odd-even-jump/
+
 # Cherry pick
 https://leetcode.com/problems/cherry-pickup
 https://leetcode.com/problems/cherry-pickup-ii
