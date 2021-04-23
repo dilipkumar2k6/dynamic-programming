@@ -13,19 +13,34 @@
 - One way to avoid repetition is to calculate as per topological sort order
 - This is solving based on increasing sub problem
 - Write iterative code
-# Optimal Substructure property
-# Problems
-https://leetcode.com/problems/fibonacci-number/
-
-https://leetcode.com/problems/climbing-stairs/
-
+# Combinatorial problems
 https://leetcode.com/problems/subsets/
 
 https://leetcode.com/problems/subsets-ii/
 
-https://leetcode.com/problems/edit-distance/
+# Counting Based problems
+https://leetcode.com/problems/fibonacci-number/
 
-https://leetcode.com/problems/knight-dialer/
+https://leetcode.com/problems/climbing-stairs/
+
+https://leetcode.com/problems/domino-and-tromino-tiling/
+
+https://leetcode.com/problems/unique-paths/
+
+https://leetcode.com/problems/pascals-triangle/
+
+https://leetcode.com/problems/pascals-triangle-ii/
+
+https://leetcode.com/problems/unique-paths-ii/
+
+# Optimal based problem
+https://leetcode.com/problems/minimum-path-sum/
+
+https://leetcode.com/problems/min-cost-climbing-stairs/
+
+https://leetcode.com/problems/coin-change/
+
+https://leetcode.com/problems/triangle/
 
 https://leetcode.com/problems/house-robber/
 
@@ -33,16 +48,53 @@ https://leetcode.com/problems/house-robber-ii/
 
 https://leetcode.com/problems/house-robber-iii/
 
+https://leetcode.com/problems/minimum-cost-for-tickets/
+
+# More Combinotorial optimization
+https://leetcode.com/problems/knight-dialer/
+
+https://leetcode.com/problems/paint-fence/
+
+https://leetcode.com/problems/paint-house/
+
+https://leetcode.com/problems/paint-house-ii/
+
+https://leetcode.com/problems/paint-house-iii/
+
+https://www.lintcode.com/problem/cutting-a-rod/description
+
+https://leetcode.com/problems/integer-break/
+
+
+# String alignment (subsequence or substring)
+
+https://leetcode.com/problems/edit-distance/
+
+https://leetcode.com/problems/longest-common-subsequence/
+
+https://leetcode.com/problems/delete-operation-for-two-strings/
+
+https://leetcode.com/problems/shortest-common-supersequence/
+
+https://leetcode.com/problems/interleaving-string/
+
+# Sub problem patterns
+https://leetcode.com/problems/decode-ways/
+
+https://leetcode.com/problems/decode-ways-ii/
+
 https://leetcode.com/problems/partition-equal-subset-sum/
+
+https://leetcode.com/problems/maximum-subarray/
+
+
+# words problem
 
 https://leetcode.com/problems/word-break/
 
 https://leetcode.com/problems/word-break-ii/
 
-https://leetcode.com/problems/coin-change/
-
-https://leetcode.com/problems/coin-change-2/
-
+# Grid problems
 https://leetcode.com/problems/bomb-enemy/
 
 https://leetcode.com/problems/filling-bookcase-shelves/
@@ -56,11 +108,17 @@ https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 
 https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 
+# Binary Search or DP
+https://leetcode.com/problems/split-array-largest-sum/
 
 # String related problems
 https://leetcode.com/problems/wildcard-matching/
 
 # Coin change/Knapsack problems
+https://leetcode.com/problems/coin-change/
+
+https://leetcode.com/problems/coin-change-2/
+
 https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/3jEPRo5PDvx
 
 https://leetcode.com/problems/partition-equal-subset-sum/
@@ -69,7 +127,6 @@ https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 
 https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/xVVNRPPXQGr
 
-https://www.lintcode.com/problem/cutting-a-rod/description
 
 https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 
@@ -88,8 +145,7 @@ https://www.lintcode.com/problem/backpack-ii/description
 
 https://leetcode.com/problems/non-overlapping-intervals/
 
-# Binary Search or DP
-https://leetcode.com/problems/split-array-largest-sum/
+
 
 # jump Game
 https://leetcode.com/problems/jump-game/
