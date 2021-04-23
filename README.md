@@ -94,6 +94,16 @@ https://leetcode.com/problems/word-break/
 
 https://leetcode.com/problems/word-break-ii/
 
+# Best time to buy and sell stocks
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-II/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-III/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-IV/
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 # Grid problems
 https://leetcode.com/problems/bomb-enemy/
 
