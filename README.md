@@ -127,6 +127,15 @@ https://leetcode.com/problems/split-array-largest-sum/
 # String related problems
 https://leetcode.com/problems/wildcard-matching/
 
+# Combination sum
+https://leetcode.com/problems/combination-sum/
+
+https://leetcode.com/problems/combination-sum-ii
+https://leetcode.com/problems/combination-sum-iii
+https://leetcode.com/problems/combination-sum-iv
+https://leetcode.com/problems/combination-sum-v
+
+
 # Coin change/Knapsack problems
 https://leetcode.com/problems/coin-change/
 
@@ -157,6 +166,27 @@ https://www.lintcode.com/problem/backpack/description
 https://www.lintcode.com/problem/backpack-ii/description
 
 https://leetcode.com/problems/non-overlapping-intervals/
+
+
+# Binary tree
+https://leetcode.com/problems/unique-binary-search-trees/
+
+https://leetcode.com/problems/unique-binary-search-trees-ii/
+
+https://leetcode.com/problems/all-possible-full-binary-trees/
+
+# Parentheses
+
+https://leetcode.com/problems/different-ways-to-add-parentheses/
+
+# Palindrome
+https://leetcode.com/problems/valid-palindrome/
+
+https://leetcode.com/problems/valid-palindrome-ii/
+
+https://leetcode.com/problems/valid-palindrome-iii/
+
+https://leetcode.com/problems/longest-palindromic-subsequence/
 
 
 
