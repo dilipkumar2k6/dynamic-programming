@@ -112,6 +112,7 @@ https://leetcode.com/problems/bomb-enemy/
 
 https://leetcode.com/problems/filling-bookcase-shelves/
 
+
 # Matrix related problems
 https://leetcode.com/problems/maximal-square/
 
@@ -120,6 +121,11 @@ https://leetcode.com/problems/maximal-rectangle/
 https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 
 https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+
+# Matrix Chain multiplications
+https://leetcode.com/problems/minimum-score-triangulation-of-polygon/solutions/1515627/problem-pattern-matrix-chain-multiplication/
+
+https://leetcode.com/problems/burst-balloons/
 
 # Binary Search or DP
 https://leetcode.com/problems/split-array-largest-sum/
@@ -179,14 +185,26 @@ https://leetcode.com/problems/all-possible-full-binary-trees/
 
 https://leetcode.com/problems/different-ways-to-add-parentheses/
 
-# Palindrome
+https://leetcode.com/problems/generate-parentheses/
+
+# Catlan numbers
+count number of generated parenthesis 
+
+Count number of generated binary search trees
+
+
+
+
+# Palindrome & Transform and Reduction concept
 https://leetcode.com/problems/valid-palindrome/
 
 https://leetcode.com/problems/valid-palindrome-ii/
 
+https://leetcode.com/problems/longest-palindromic-subsequence/
+
 https://leetcode.com/problems/valid-palindrome-iii/
 
-https://leetcode.com/problems/longest-palindromic-subsequence/
+https://leetcode.com/problems/shortest-common-supersequence/
 
 
 
